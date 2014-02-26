@@ -14,10 +14,10 @@ import static javax.swing.WindowConstants.DISPOSE_ON_CLOSE;
  */
 public class LippuOstaa extends JFrame{
     private JPanel pohjapaneeli=new JPanel();
-    private JLabel etunimiSelite=new JLabel("EtunimiTEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEST");
-    private JLabel sukunimiSelite=new JLabel("SukunimiTTTEST HELLO NINK");
-    private JLabel ikaSelite=new JLabel("Ikä1 hello Aalex HIII djlksf55555");
-    private JLabel puhelinSelite=new JLabel("PuhelinnumeroYANNICK");
+    private JLabel etunimiSelite=new JLabel("Etunimi");
+    private JLabel sukunimiSelite=new JLabel("Sukunimi");
+    private JLabel ikaSelite=new JLabel("Ikä");
+    private JLabel puhelinSelite=new JLabel("Puhelinnumero");
     private JLabel emailSelite=new JLabel("E-mail");
     private JTextField etunimi=new JTextField(15);
     private JTextField sukunimi=new JTextField(15);
