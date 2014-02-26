@@ -16,7 +16,7 @@ public class LippuOstaa extends JFrame{
     private JPanel pohjapaneeli=new JPanel();
     private JLabel etunimiSelite=new JLabel("EtunimiTEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEST");
     private JLabel sukunimiSelite=new JLabel("SukunimiTTTEST HELLO NINK");
-    private JLabel ikaSelite=new JLabel("Ikä1 hello Aalex");
+    private JLabel ikaSelite=new JLabel("Ikä1 hello Aalex HIII");
     private JLabel puhelinSelite=new JLabel("Puhelinnumero");
     private JLabel emailSelite=new JLabel("E-mail");
     private JTextField etunimi=new JTextField(15);
