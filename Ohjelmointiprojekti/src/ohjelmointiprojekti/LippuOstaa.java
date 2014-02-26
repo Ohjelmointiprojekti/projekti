@@ -15,7 +15,7 @@ import static javax.swing.WindowConstants.DISPOSE_ON_CLOSE;
 public class LippuOstaa extends JFrame{
     private JPanel pohjapaneeli=new JPanel();
     private JLabel etunimiSelite=new JLabel("EtunimiTEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEST");
-    private JLabel sukunimiSelite=new JLabel("Sukunimi");
+    private JLabel sukunimiSelite=new JLabel("SukunimiTTTEST HELLO NINK");
     private JLabel ikaSelite=new JLabel("Ikä");
     private JLabel puhelinSelite=new JLabel("Puhelinnumero");
     private JLabel emailSelite=new JLabel("E-mail");
